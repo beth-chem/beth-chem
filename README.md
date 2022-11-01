@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beth-chem
-- 👀 I’m interested in building Computing solutions to Scientififc problems.
+- 👀 I’m interested in finding Computing solutions to Scientififc problems.
 - 🌱 Currently working for STFC in a team of Cloud Engineers. 
 - 💞️ I’m looking to collaborate on some interesting projects in my area.
 - 📫 You can reach me by my email liza.mamchits@gmail.com
