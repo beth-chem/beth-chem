@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beth-chem
 - 👀 I’m interested in chemistry and physics.
-- 🌱 I really want to learn coding and currently in my final 4th year at uni studying Chemistry. 
+- 🌱 Currently working for STFC in a team of Cloud Engineers. 
 - 💞️ I’m looking to collaborate on some interesting projects in my area.
 - 📫 You can reach me by my email liza.mamchits@gmail.com
 
