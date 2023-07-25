@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @beth-chem
 - 👀 I’m interested in finding Computing solutions to Scientififc problems.
-- 🌱 Currently working for STFC in a team of Cloud Engineers. 
+- 🌱 Currently working for Science & Technology Facility Council in UK.
+- ⚛️ Working in a team of Computational Chemists on reformating legacy software.
 - 💞️ I’m looking to collaborate on some interesting projects in my area.
 
 <!---
